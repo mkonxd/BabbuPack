@@ -1,0 +1,27 @@
+WorldgenEvents.remove(event => {
+  event.removeFeatureById('underground_ores', [
+    "ftbic:ore_iridium_large",
+    "ftbic:ore_iridium_buried",
+    "ftbic:ore_tin_upper",
+    "ftbic:ore_tin_small",
+    "ftbic:ore_lead_small",
+    "ftbic:ore_uranium_extra",
+    "ftbic:ore_aluminum_upper",
+    "ftbic:ore_iridium",
+    "ftbic:ore_aluminum_small",
+    "ftbic:ore_lead_middle",
+    "ftbic:ore_uranium",
+    "ftbic:ore_aluminum_middle",
+    "ftbic:ore_lead_upper",
+    "ftbic:ore_uranium_lower",
+    "ftbic:ore_tin_middle",
+    "thermal:apatite_ore",
+    "thermal:cinnabar_ore",
+    "thermal:lead_ore",
+    "thermal:nickel_ore",
+    "thermal:niter_ore",
+    "thermal:silver_ore",
+    "thermal:sulfur_ore",
+    "thermal:tin_ore",
+  ])
+})
