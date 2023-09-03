@@ -230,6 +230,7 @@
 		],
 		"minecraft": [
 			"minecraft:beetroot_seeds",
+			"minecraft:carrot",
 			"minecraft:pumpkin_seeds",
 			"minecraft:melon_seeds",
 			"minecraft:wheat_seeds"
@@ -263,6 +264,18 @@
 		],
 		"hexerei": [
 			"hexerei:sage_seed"
+		],
+		"breadcraft": [
+			"breadcraft:basil_seeds",
+			"breadcraft:caper_seeds",
+			"breadcraft:hot_pepper_seeds",
+			"breadcraft:mustard_seeds",
+			"breadcraft:onion_seeds",
+			"breadcraft:rosemary_seeds",
+			"breadcraft:rye_seeds",
+			"breadcraft:thyme_seeds",
+			"breadcraft:tomato_seeds",
+			"breadcraft:wild_seeds"
 		]
 	},
 	"flowers": {
