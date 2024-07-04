@@ -1,0 +1,9 @@
+
+[HorseStatsMod]
+	#Shows the stats in the GUI. If turned off, you need to put your mouse on the horse name (in the GUI) to show a tooltip with its stats. Can be useful with some resource packs or mods that change the GUI of horses
+	displayStats = false
+	#Shows the stats with colors (only when displayStats is true). If turned on, it will display the stats with the default gray color. Can be useful with some resource packs.
+	coloredStats = true
+	#Shows the stats with their min and max. If turned off, it will display the stats without any information about their min and max.
+	displayMinMax = false
+
