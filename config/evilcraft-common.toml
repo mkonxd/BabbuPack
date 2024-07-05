@@ -33,7 +33,7 @@
 
 	[core.general]
 		#If an anonymous mod startup analytics request may be sent to our analytics service.
-		analytics = true
+		analytics = false
 		#If the version checker should be enabled.
 		versionChecker = true
 
@@ -307,7 +307,7 @@
 		#1/X chance on getting poisoned when hit.
 		poisonChance = 20
 		#The minimum Y-level this mob can spawn at.
-		minY = 55
+		minY = -100 #this should effectively despawn them as world doesnt gen below -55 ish
 
 	[mob.vengeance_spirit]
 		#The 1/X chance that an actual spirit will spawn when doing actions like mining with the Vengeance Pickaxe.
